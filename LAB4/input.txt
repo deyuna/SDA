@@ -1,0 +1,58 @@
+14
+FONDASI OG
+FONDASI ULD
+BANGUN OG x
+HANCURKAN OG
+BANGUN ULD K
+TIMPA ULD OG
+HANCURKAN ULD
+BANGUN ULD b
+BANGUN ULD D
+FONDASI V
+SKETSA ULD
+HANCURKAN ULD
+SKETSA ULD
+HANCURKAN ULD
+
+
+
+
+ULD= b D
+b D 
+V =
+
+JDT = F k F g v p 
+HCS = g v 
+U = k g v
+MKA = p
+
+
+expected
+w
+Z
+k
+e
+p
+Fkgvp
+k
+Fkgvp
+k
+F
+F
+F
+kFgvp
+
+output
+w
+Z
+k
+e
+p
+Fkgvp
+k
+Fkgvp
+k
+k
+k
+k
+FkFgv

@@ -1,0 +1,2 @@
+ void carry(int karyawan){
+        
